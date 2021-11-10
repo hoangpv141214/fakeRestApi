@@ -1,0 +1,46 @@
+{
+    "user": [
+        {
+            "userID": 1,
+            "userLoginId": "hoang1",
+            "userPassword": "hoangpv23",
+            "userName": "Hoang1",
+            "userRole": "Student"
+        },
+        {
+            "userID": 2,
+            "userLoginId": "hoang2",
+            "userPassword": "hoangpv23",
+            "userName": "Hoang2",
+            "userRole": "Student"
+        },
+        {
+            "userID": 3,
+            "userLoginId": "hoang3",
+            "userPassword": "hoangpv23",
+            "userName": "Hoang3",
+            "userRole": "Student"
+        },
+        {
+            "userID": 4,
+            "userLoginId": "hoang4",
+            "userPassword": "hoangpv23",
+            "userName": "Hoang4",
+            "userRole": "Student"
+        },
+        {
+            "userID": 5,
+            "userLoginId": "hoang5",
+            "userPassword": "hoangpv23",
+            "userName": "Hoang5",
+            "userRole": "Student"
+        },
+        {
+            "userID": 6,
+            "userLoginId": "hoang6",
+            "userPassword": "hoangpv23",
+            "userName": "Hoang6",
+            "userRole": "Student"
+        }
+    ]
+}
